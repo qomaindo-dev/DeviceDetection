@@ -22,7 +22,7 @@
 function checkScreen() {
     if (window.screen.availWidth > 768) {
         console.log(window.screen.availWidth);
-        window.location.href = "http://localhost/lpdesktop/contact/desktop.html";
+        window.location.href = "http://localhost/lpdesktop/contact/desktop.php";
     } else {
         // console.log(window.screen.availWidth);
     }
